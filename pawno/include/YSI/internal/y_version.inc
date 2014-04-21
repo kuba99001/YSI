@@ -23,7 +23,7 @@ Legal:
 	Portions created by the Initial Developer are Copyright (C) 2011
 	the Initial Developer. All Rights Reserved.
 	
-	Contributors:
+	Contributors
 		ZeeX, koolk, JoeBullet/Google63, g_aSlice/Slice
 	
 	Thanks:
